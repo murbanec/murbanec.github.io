@@ -1,7 +1,8 @@
+---
 layout: page
-title: "PAGE-TITLE"
+title: Teaching
 permalink: /teaching/
-
+---
 
 ### Teaching in Spring 2024
 
