@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am Martin Urbanec and I work at the [Research Centre for Computational Physics and Data Processing](https://astrocomp.physics.cz) at the [Institute of Physics](https://physics.slu.cz) 
 
 
-[jekyll-organization]: https://github.com/jekyll
+I am iterested in neutron stars and in general relativistic astrophysics.
