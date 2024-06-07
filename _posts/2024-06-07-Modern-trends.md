@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modern Trends in Astrophysics"
-date:   2024-06-08 17:30:12 +0200
+date:   2024-06-07 13:30:00 +0200
 categories: jekyll update
 ---
 
