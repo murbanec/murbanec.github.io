@@ -36,3 +36,6 @@ Török et al. [Cusp torus model explaing 4U1636-53 QPOs](https://ui.adsabs.harv
 Ligo discovery [page](https://www.ligo.org/detections/GW170817.php)  
 Discovery [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101)  
 Mass and radius [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.161101)  
+
+
+![1st grill party with grilmester](/images/first_party.png)
