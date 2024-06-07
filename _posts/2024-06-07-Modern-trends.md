@@ -16,8 +16,7 @@ Ascenzi, Graber & Rea [Neutron-star measurements in the multi-messenger Era](htt
  
 ATNF [database](https://www.atnf.csiro.au/research/pulsar/psrcat/index.html) 
 
-**Double pulsar**
-
+**Double pulsar**   
 Kramer & Stairs [paper](https://ui.adsabs.harvard.edu/abs/2008ARA%26A..46..541K/abstract)
 
 ### Neutron stars in X-ray binaries
