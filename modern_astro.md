@@ -10,6 +10,7 @@ Talks were presented in Wroclaw May/June 2024. Here are supplementary reading ma
 
 ### Neutron stars introduction
 Alice Harding: [The Neutron star ZOO](https://arxiv.org/abs/1302.0869)
+
 Stefano Ascenzi, Vanessa Grabe & Nanda Rea [Neutron-star measurements in the multi-messenger Era]
 
 ### Pulsars	
