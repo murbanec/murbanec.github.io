@@ -2,6 +2,7 @@
 layout: page
 title: Modern Trends in Astrophysics 
 permalink: /teaching/mod_astro_2024/
+nav: false
 ---
 
 Talks were presented in Wroclaw May/June 2024. Here are supplementary reading materials for each lecture. 
