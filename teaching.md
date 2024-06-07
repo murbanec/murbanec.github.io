@@ -6,8 +6,12 @@ permalink: /teaching/
 
 ### Teaching in Spring 2024
 
-Opava:
+**Opava:**
+
 Stellar structure and evolution (in Czech)
 
-Wroclaw:
-Modern Trends in Astrophysics
+Numerical Relativity (in Czech)
+
+**Wroclaw:**
+
+[Modern Trends in Astrophysics](https://murbanec.github.io/jekyll/update/2024/06/07/Modern-trends.html)
