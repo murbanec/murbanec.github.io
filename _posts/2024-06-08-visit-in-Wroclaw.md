@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to new homepage!"
+title:  "Visit in Wroclaw"
 date:   2024-06-08 17:30:12 +0200
 categories: jekyll update
 ---
