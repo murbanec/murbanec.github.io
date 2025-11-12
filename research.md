@@ -13,9 +13,13 @@ I am interested mainly in neutron stars. Our group in Opava study rapid time var
 
 ### Ph.D. Students
 Ondřej Chlopčík
+
 Kristína Novotná
+
 Zuzana Turoňová 
 
 
+
 ### Master Students
+
 Nela Michálková
