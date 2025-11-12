@@ -8,3 +8,14 @@ You can find my papers on [NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B
 
 
 I am interested mainly in neutron stars. Our group in Opava study rapid time variability of neutron stars in low-mass X-ray binaries. 
+
+## Students
+
+### Ph.D. Students
+Ondřej Chlopčík
+Kristína Novotná
+Zuzana Turoňová 
+
+
+### Master Students
+Nela Michálková
