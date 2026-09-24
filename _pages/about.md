@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Institute of Physics, Silesian University in Opava, Czech Republic
 
 profile:
   align: right
