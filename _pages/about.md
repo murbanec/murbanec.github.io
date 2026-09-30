@@ -13,7 +13,7 @@ profile:
     <p>Bezrucovo nam. 13</p>
     <p>74601 Opava, Czech Republic</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
