@@ -1,19 +1,19 @@
 ---
 layout: book-review
-title: The Godfather
-author: Mario Puzo
-cover: assets/img/book_covers/the_godfather.jpg
-olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
+title: Shogun
+author: James Clavell
+cover: 
+olid: OL30277031M # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: 9788401325625 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories:  historical-fiction novels 
 tags: top-100
-buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
-date: 2024-08-23
-started: 2024-08-23
-finished: 2024-09-07
+buy_link: https://www.kosmas.cz/knihy/539565/sogun/
+date: 2026-08-23
+started: 2026-08-23
+finished: 2026-10-03
 released: 1969
 stars: 5
-goodreads_review: 6318556633
+goodreads_review: 39566714
 status: Finished
 ---
 
