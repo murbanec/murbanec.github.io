@@ -13,7 +13,7 @@ started: 2026-08-23
 finished: 2026-10-03
 released: 1969
 stars: 5
-goodreads_review: 39566714-martin-urbanec
+goodreads_review: 8864528082
 status: Finished
 ---
 
@@ -34,8 +34,11 @@ The various parts of the book where <i>Wa</i> was important or discussed.
 Even though the book is not acurate in history, many characters were insipired by real people. For example
 
 Toranaga is based on [Tokugawa Ieyasu](https://en.wikipedia.org/wiki/Tokugawa_Ieyasu)
+
 Blackthorne ("Anjin") is based on [William Adams](https://en.wikipedia.org/wiki/William_Adams_(samurai))
+
 Mariko is based on [Hosokawa Gracia](https://en.wikipedia.org/wiki/Hosokawa_Gracia)
+
 Ishido is based on [Ishida Mitsunari](https://en.wikipedia.org/wiki/Ishida_Mitsunari)
 
 
