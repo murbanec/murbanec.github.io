@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RAGtime 28
-date: 2026-10-07 16:11:00-0400
+date: 2026-10-01 16:11:00-0400
 inline: false
 related_posts: false
 ---
