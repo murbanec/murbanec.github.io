@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Academic day of Silesian University next week. See (slu.cz) for details.
+Academic day of Silesian University next week. See [SU](https://www.slu.cz/slu/cz/udalost/1/2604) for details.
